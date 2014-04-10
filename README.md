@@ -48,7 +48,7 @@ Osoby czujące awersję do języka angielskiego mogą znaleźć pomoc
 na strona polskiej Grupy Użytkowników Systemu TeX
 [GUST](http://www.gust.org.pl)
 lub korzystając z [Google](http://lmgtfy.com/?q=instalacja+tex%27a%2Flatex%27a).
-**Uwaga** nim Google nauczy się co masz na myśli
+Nim Google nauczy się co masz na myśli
 wpisując "latex" w jego polu wyszukiwania,
 pomaga dopisanie słowa "tex" lub włączenie filtra rodzinnego.
 
